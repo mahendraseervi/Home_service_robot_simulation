@@ -1,5 +1,5 @@
 # Home_service_robot_simulation
-Home service robot which can do - Autonomous navigation with pick and place of objects. 
+Home service robot which can do - Autonomous navigation with pick and place of objects
 
 ## Steps to Launch:
 ### step 1 create the catkin_ws
