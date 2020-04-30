@@ -33,7 +33,7 @@ $ ./home_service.sh
 ```
 This will launch multiple roslaunch files for the autonomous navigation with pick and place of objects.
 
-## Images :
+## Images:
 ## 2D map creating using gmapping:
 ```
 $ cd /home/workspace/catkin_ws/src
